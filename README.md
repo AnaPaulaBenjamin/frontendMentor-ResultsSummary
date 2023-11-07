@@ -8,7 +8,7 @@ Esta é uma solução para o desafio do [Componente de resumo de resultados](htt
 
 ### Links
 
-- Solução URL: [Add solution URL here](https://your-solution-url.com)
+- Solução URL: [Add solution URL here](https://www.frontendmentor.io/solutions/frontend-mentor-soluo-para-o-componente-de-resumo-de-resultados-spa-A8Rx_o)
 - Site ao vivo URL: [Add live site URL here](https://anapaulabenjamin.github.io/frontendMentor-ResultsSummary/)
 
 ## Author
