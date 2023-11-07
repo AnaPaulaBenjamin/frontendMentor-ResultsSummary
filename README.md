@@ -1,4 +1,4 @@
-# Frontend Mentor - Solução para o componente de QR code
+# Frontend Mentor - Solução para  o componente de resumo de resultados
 
 Esta é uma solução para o desafio do [Componente de resumo de resultados](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam a melhorar suas habilidades de codificação construindo projetos realistas.
 
