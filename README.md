@@ -9,7 +9,7 @@ Esta é uma solução para o desafio do [Componente de resumo de resultados](htt
 ### Links
 
 - Solução URL: [Add solution URL here](https://your-solution-url.com)
-- Site ao vivo URL: [Add live site URL here](https://your-live-site-url.com)
+- Site ao vivo URL: [Add live site URL here](https://anapaulabenjamin.github.io/frontendMentor-ResultsSummary/)
 
 ## Author
 
